@@ -64,13 +64,6 @@ class MyFunction{
             return newarr
         }
         
-        // let ar = []*this.arr.length-1
-        // for(let i=0;i<this.arr.length-1;i++){
-        //     ar[i] = this.arr[i]
-        // }
-        // this.arr = ar
-        // return this.arr
-        
 
    }
 
